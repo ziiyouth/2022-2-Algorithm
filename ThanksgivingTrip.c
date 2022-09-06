@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
 void main() {
 
 	while (1) {
