@@ -14,6 +14,7 @@ void flip_pan(int* pancake, int num)
     }
 }
 
+
 // Find and flip the largest pancake value
 int pancake_sort(int* pancake, int length)
 {
