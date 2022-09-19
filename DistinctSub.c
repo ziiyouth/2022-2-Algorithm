@@ -21,7 +21,6 @@ int subseq(char* strX, char* strZ, int m, int n) {
 		return subseq(strX, strZ, m - 1, n);
 }
 
-
 void main() {
 	
 	char stringX[10000];
