@@ -23,6 +23,7 @@ int compare(const void* first, const void* second) {
 ele elephant[1002];
 int maxArr[1002], idxArr[1002], result[1002];
 
+
 int main() {
 	int n = 0, i = 0, j = 0;
 	int idx = 0;
